@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpideyPlayzz Gaming</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>SpideyPlayzz</h1>
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#social">Links</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="home-section">
+        <div class="container">
+            <h2>Welcome to My Gaming World!</h2>
+            <p>Fastest clutches, epic wins & fun gameplay.</p>
+            <a href="#social" class="btn">Check My Links</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi, I'm Aditya Solanki, a passionate gamer sharing my best BGMI, Free Fire, and PUBG moments. Follow me for epic gameplay and tips!</p>
+        </div>
+    </section>
+
+    <!-- Social Section -->
+    <section id="social" class="social-section">
+        <div class="container">
+            <h2>Follow Me</h2>
+            <div class="social-links">
+                <a href="https://www.youtube.com/@spideyplayzz001" target="_blank">YouTube</a>
+                <a href="https://instagram.com/spideyplayzz001" target="_blank">Instagram</a>
+                <a href="https://twitch.tv/spideyplayzz001" target="_blank">Twitch</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 SpideyPlayzz. All rights reserved.</p>
+    </footer>
+</body>
+</html>
